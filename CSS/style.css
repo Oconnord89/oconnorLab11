@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+
+#firstDiv {
+  background-color: darkred;
+  width: 850px;
+}
+
+h1 { font-family: monospace;
+  color: white;
+  margin-left: 355px;
+  margin-top: 178px;
+}
+
+#secDiv {
+  background-color: darkred;
+  margin-left: 160px;
+
+}
